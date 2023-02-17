@@ -4,7 +4,7 @@
 
 ## Description ##
 
-KOHO is a free spending and savings account where you can get instant cash back and earn interest on your entire account. 
+KOHO is a all-in-one budgeting app that includes free spending and savings account where you can get instant cash back and can earn interest on the account. 
 
 ## Contributors ##
 - Jamie Mellway
