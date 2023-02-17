@@ -10,8 +10,8 @@
 ## Strengeths and Weaknesses ##
     * Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
       Strength: 
-      Weakness: Funds deposited into a KOHO card are not insured by the Canada Deposit Insurance Corporation, and will be returned to account 
-      holders by Peoples Trust in the event KOHO fails
+      Weakness: Funds deposited into a KOHO card are not insured by the Canada Deposit Insurance Corporation, 
+      and will be returned to account holders by Peoples Trust in the event KOHO fails.
 
 ## Expectations ##
     * What is the prognosis for this company? Where do they expect to be in the future?
