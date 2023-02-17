@@ -1,8 +1,6 @@
-#KOHO Case Study#
+# KOHO Case Study #
 
 ## Background ##
-* What is the background of your company? What do they do? Who are their competitors?
-
 KOHO is a virtual bank with no fee and cash backs.
 
 ## Use Of Technology ##
