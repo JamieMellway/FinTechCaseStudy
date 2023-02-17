@@ -10,5 +10,5 @@ Content for the description
 - Jamie Mellway
 - Majeed Raheem
 - Ganna Kass
-- Hd Katta
+- Harshitha Katta
 
