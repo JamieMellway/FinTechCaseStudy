@@ -14,7 +14,7 @@ They will generate a credit score.  They will provide loans with a lower credit 
 
 Not insured with Canadian Insurance Corporation and so is 
 
-     Strength: 
+     Strength: zero monthly fee, cashbacks and rewards, compatibility, app is fast and user friendly, tracks budget, allows to reach financial goals(rounding to the nearest dollar)
       Weakness: Funds deposited into a KOHO card are not insured by the Canada Deposit Insurance Corporation, 
       and will be returned to account holders by Peoples Trust in the event KOHO fails.
      
