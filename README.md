@@ -1,6 +1,3 @@
-# FinTechCaseStudy
-FinTech Case Study
-
 # A title for the FinTech case study #
 
 ![An image relevant to the case study]()
