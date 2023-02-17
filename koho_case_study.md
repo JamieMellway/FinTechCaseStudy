@@ -8,7 +8,7 @@ KOHO is a virtual bank with no fee and cash backs.
 ## Use Of Technology ##
 * How does this company use technology to their advantage? Why are they considered a FinTech company?
 
-## Strengeths and Weaknesses ##
+## Strengths and Weaknesses ##
     * Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 
 They will generate a credit score.  They will provide loans with a lower credit score than regular banks.  They will help clients raise their credit score.
